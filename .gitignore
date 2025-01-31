@@ -1,0 +1,3 @@
+# Ignore all PyCharm/IntelliJ IDEA files
+.idea/
+*.iml
