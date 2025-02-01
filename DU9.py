@@ -12,3 +12,4 @@ class City:
 
 Copake = City(city_name="Copake", region_name="New York", country_name="USA", population=3000, zip_code=12516, area_code=518)
 Copake.full_address()
+
